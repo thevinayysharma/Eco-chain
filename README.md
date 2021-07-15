@@ -30,6 +30,8 @@ node main.js
 
 ```
 
-...
+### Terminal Blockchain processing image:
 
-![Terminal Transaction processing Image](https://drive.google.com/file/d/1P9koYrIoVraEL2gMhguMClOUAiADO5W_/view?usp=sharing)
+<img src="https://image-dock-uploads-be.s3.ap-south-1.amazonaws.com/image.2021-07-15T09%3A45%3A06.350Z" alt="Terminal Block processing">
+
+
