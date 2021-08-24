@@ -21,7 +21,7 @@ cd eco-coin
 npm install
 
 ```
-Run Locally
+Run Code
 <hr>
 
 ```
